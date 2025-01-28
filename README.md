@@ -39,6 +39,6 @@ B. Steps:
 - Duration: 1.5 hours
 - Tasks:
     a. Data validation: 20 minutes
-    b. Data cleaning: 30 minutes
-    c. Data transformation: 30 minutes
+    b. Data cleaning: 45 minutes
+    c. Data transformation: 45 minutes
     d. Error handling: 10 minutes
