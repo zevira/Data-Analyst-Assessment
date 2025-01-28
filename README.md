@@ -36,5 +36,5 @@ B. Steps:
 
 - Duration: 1.5 hours
 - Tasks:
-    a. Menu 1: Cooperative types by sector/group: 45 minutes
-    b. Menu 2: Cooperative distribution map: 45 minutes
+    a. Menu 1: Cooperative types by sector/group: 1 hours
+    b. Menu 2: Cooperative distribution map: 1 hours
