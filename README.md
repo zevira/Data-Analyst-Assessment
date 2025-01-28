@@ -41,4 +41,4 @@ B. Steps:
 - Tasks:
     a. Data generation: 1 - 1,5 hour
     b. Query creation: 1 - 1,5 hours
-    c. Dashboard creation in Tableau Desktop: 1 hour
+    c. Dashboard creation in Tableau Desktop: 1,5 - 2 hour
