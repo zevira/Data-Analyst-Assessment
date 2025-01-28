@@ -91,26 +91,26 @@ B. Steps:
 
 1. SQL Assessment
 
-- Duration: 3 - 4 hours
+- Duration: 4 - 5 hours
 - Tasks:
     a. Data generation: 1 - 1,5 hour
     b. Query creation: 1 - 1,5 hours
-    c. Dashboard creation in Tableau Desktop: 1 hour
+    c. Dashboard creation in Tableau Desktop: 1,5 - 2 hour
 
 
 2. ETL Requirements
 
-- Duration: 1.5 hours
+- Duration: 2 hours
 - Tasks:
     a. Data validation: 20 minutes
-    b. Data cleaning: 30 minutes
-    c. Data transformation: 30 minutes
+    b. Data cleaning: 45 minutes
+    c. Data transformation: 45 minutes
     d. Error handling: 10 minutes
 
 
 4. Data Visualization Assessment
 
-- Duration: 1.5 hours
+- Duration: 2 hours
 - Tasks:
-    a. Menu 1: Cooperative types by sector/group: 45 minutes
-    b. Menu 2: Cooperative distribution map: 45 minutes
+    a. Menu 1: Cooperative types by sector/group: 1 hours
+    b. Menu 2: Cooperative distribution map: 1 hours
